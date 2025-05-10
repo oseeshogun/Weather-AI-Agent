@@ -55,6 +55,7 @@ app.*.map.json
 /firebase-debug.cache
 /firebase_index.json
 /.firebase/
+**/firebase_options.dart
 
 # Google Services related
 /android/app/google-services.json
